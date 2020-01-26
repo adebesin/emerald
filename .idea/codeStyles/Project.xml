@@ -1,0 +1,10 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <HCL-Terraform>
+      <option name="PROPERTY_ALIGNMENT" value="2" />
+    </HCL-Terraform>
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="RIGHT_MARGIN" value="72" />
+    </MarkdownNavigatorCodeStyleSettings>
+  </code_scheme>
+</component>

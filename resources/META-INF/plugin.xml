@@ -1,0 +1,41 @@
+<idea-plugin>
+    <id>com.adebesin.emerald</id>
+    <name>Emerald</name>
+    <version>1.4</version>
+    <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/emerald">adebesin</vendor>
+
+    <description><![CDATA[
+     Emerald colour theme for IntelliJ IDEA integrated development environment
+    ]]></description>
+
+    <change-notes><![CDATA[
+      <ul>
+        <li>1.4   Update default font to JetBrains Mono</li>
+        <li>1.3   Update markdown scheme + change header colour</li>
+        <li>1.2   Update build version + minor tweaks</li>
+        <li>1.1   Update console colours. Tweak language colours</li>
+        <li>1.0   Initial release of emerald theme for Intellij Idea</li>
+      </ul>
+    ]]>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="192.5728.12"/>
+
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+    <!-- uncomment to enable plugin in all products-->
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="Emerald" path="/Emerald.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
