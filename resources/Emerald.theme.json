@@ -55,7 +55,7 @@
     },
     "ComboBox": {
       "nonEditableBackground": "#202020",
-      "modifiedItemForeground": "#353535",
+      "modifiedItemForeground": "#B2B2B2",
       "ArrowButton": {
         "iconColor": "#B2B2B2",
         "disabledIconColor":  "#733000",
@@ -72,8 +72,8 @@
     "Component": {
       "errorFocusColor": "#cc504b",
       "inactiveErrorFocusColor": "#cc504b",
-      "warningFocusColor": "#eca311",
-      "inactiveWarningFocusColor": "#eca311",
+      "warningFocusColor": "#806919",
+      "inactiveWarningFocusColor": "#806919",
       "iconColor": "#B2B2B2",
       "hoverIconColor": "#B2B2B2"
     },
@@ -122,10 +122,10 @@
     "FlameGraph": {
       "JVMBackground": "#202020",
       "frameForeground": "#B2B2B2",
-      "JVMSearchNotMatchedBackground": "#806919",
+      "JVMSearchNotMatchedBackground": "#353535",
       "nativeBackground": "#353535",
-      "nativeSearchNotMatchedBackground": "#4F9FDC",
-      "parentBackground": "#B2B2B2",
+      "nativeSearchNotMatchedBackground": "#353535",
+      "parentBackground": "#353535",
       "parentSearchNotMatchedBackground": "#353535",
       "JVMFocusBackground": "#353535",
       "JVMFocusSearchNotMatchedBackground": "#353535",
@@ -133,9 +133,9 @@
       "nativeFocusSearchNotMatchedBackground": "#353535",
       "parentFocusBackground": "#353535",
       "parentFocusSearchNotMatchedBackground": "#353535",
-      "JVMFrameForeground": "#202020",
-      "nativeFrameForeground": "#202020",
-      "parentFrameForeground": "#202020",
+      "JVMFrameForeground": "#B2B2B2",
+      "nativeFrameForeground": "#B2B2B2",
+      "parentFrameForeground": "#B2B2B2",
       "JVMFocusedFrameForeground": "#B2B2B2",
       "nativeFocusedFrameForeground": "#B2B2B2",
       "parentFocusedFrameForeground": "#B2B2B2"
@@ -169,7 +169,7 @@
         "informativeBackground": "#353535",
         "informativeBorderColor": "#353535",
         "warningForeground": "#B2B2B2",
-        "warningBackground": "#eca311",
+        "warningBackground": "#353535",
         "warningBorderColor": "#353535",
         "errorForeground": "#B2B2B2",
         "errorBackground": "#cc504b",
@@ -184,7 +184,7 @@
     },
     "Plugins": {
       "Tab": {
-        "selectedForeground": "#202020",
+        "selectedForeground": "#B2B2B2",
         "selectedBackground": "#353535",
         "hoverBackground": "#353535"
       },
@@ -260,7 +260,7 @@
     },
     "SearchEverywhere": {
       "Tab": {
-        "selectedForeground": "#202020",
+        "selectedForeground": "#B2B2B2",
         "selectedBackground": "#353535"
       },
       "SearchField.borderColor": "#353535",
@@ -274,7 +274,7 @@
       "endBackground": "#eca311"
     },
     "SpeedSearch": {
-      "foreground": "#202020",
+      "foreground": "#B2B2B2",
       "borderColor": "#353535",
       "background": "#353535"
     },
@@ -344,7 +344,7 @@
     "ValidationTooltip": {
       "errorBackground": "#cc504b",
       "errorBorderColor": "#353535",
-      "warningBackground": "#eca311",
+      "warningBackground": "#353535",
       "warningBorderColor": "#353535"
     },
     "VersionControl": {
