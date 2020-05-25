@@ -1,9 +1,9 @@
 <scheme name="Emerald" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-08T19:27:38</property>
+    <property name="created">2020-05-09T15:42:04</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-05-08T19:27:45</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-09T15:42:13</property>
     <property name="originalScheme">_@user_Emerald</property>
   </metaInfo>
   <colors>
@@ -867,20 +867,20 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="9ebbb4" />
+        <option name="FOREGROUND" value="b2b2b2" />
+        <option name="BACKGROUND" value="718681" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="9ebbb4" />
+        <option name="BACKGROUND" value="718681" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="c8c8c8" />
-        <option name="BACKGROUND" value="9ebbb4" />
+        <option name="BACKGROUND" value="718681" />
       </value>
     </option>
     <option name="IVAR">
@@ -26632,10 +26632,7 @@
     </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="b85dff" />
-        <option name="BACKGROUND" value="340f4b" />
-      </value>
+      <value />
     </option>
     <option name="SLIM_CLASS">
       <value>
@@ -26779,8 +26776,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="42fff5" />
-        <option name="BACKGROUND" value="104b48" />
+        <option name="FOREGROUND" value="3adcd5" />
+        <option name="BACKGROUND" value="123534" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -26832,10 +26829,7 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffdc00" />
-        <option name="BACKGROUND" value="4b3b00" />
-      </value>
+      <value />
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value />

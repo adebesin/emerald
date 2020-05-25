@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.emerald</id>
     <name>Emerald</name>
-    <version>1.5</version>
+    <version>1.6</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/emerald">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.6   Change caret match colour </li>
         <li>1.5   Update tab foreground + small tweaks </li>
         <li>1.4   Update default font to JetBrains Mono</li>
         <li>1.3   Update markdown scheme + change header colour</li>
