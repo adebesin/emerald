@@ -99,7 +99,7 @@
     "Editor": {
       "background": "#202020",
       "foreground": "#CCCCCC",
-      "shortcutForeground": "#eca311"
+      "shortcutForeground": "#CCCCCC"
     },
     "EditorPane.inactiveBackground": "#202020",
     "EditorTabs": {
@@ -114,12 +114,12 @@
       "inactiveColoredFileBackground": "#20202000"
     },
     "FileColor": {
-      "Yellow": "#eca311",
-      "Green": "#49A27E",
-      "Blue": "#4F9FDC",
-      "Violet": "#353535",
-      "Orange": "#733000",
-      "Rose": "#cc504b"
+      "Yellow": "#202020",
+      "Green": "#202020",
+      "Blue": "#202020",
+      "Violet": "#202020",
+      "Orange": "#202020",
+      "Rose": "#202020"
     },
     "FlameGraph": {
       "JVMBackground": "#202020",
@@ -272,8 +272,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "#eca311",
-      "endBackground": "#eca311"
+      "startBackground": "#353535",
+      "endBackground": "#353535"
     },
     "SpeedSearch": {
       "foreground": "#CCCCCC",
@@ -284,7 +284,7 @@
     "TabbedPane": {
       "underlineColor": "#353535",
       "tabSelectionHeight": 5,
-      "disabledUnderlineColor": "#eca311",
+      "disabledUnderlineColor": "#806919",
       "contentAreaColor": "#CCCCCC",
       "hoverColor": "#353535",
       "focusColor": "#353535"
@@ -353,7 +353,7 @@
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "#353535",
-        "unmatchedForeground": "#eca311"
+        "unmatchedForeground": "#CCCCCC"
       },
       "RefLabel": {
         "backgroundBase": "#353535",

@@ -36,6 +36,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="Emerald" path="/Emerald.theme.json"/>
+        <themeProvider id="9934a944-bba0-4653-b67a-fa5fc79d1b90" path="/themes/emerald.theme.json"/>
     </extensions>
 
     <actions>
