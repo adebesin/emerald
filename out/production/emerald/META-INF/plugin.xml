@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.emerald</id>
     <name>Emerald</name>
-    <version>1.9</version>
+    <version>1.10</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/emerald">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,6 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
+        <li>1.10   Update search colour </li>
         <li>1.9   Update file colours </li>
         <li>1.8   Update console colours </li>
         <li>1.7   Slight color updates </li>

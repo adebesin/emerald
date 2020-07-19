@@ -272,13 +272,13 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "#353535",
-      "endBackground": "#353535"
+      "startBackground": "#13879C",
+      "endBackground": "#13879C"
     },
     "SpeedSearch": {
-      "foreground": "#CCCCCC",
+      "foreground": "#00FFFF",
       "borderColor": "#353535",
-      "background": "#353535"
+      "background": "#13879C"
     },
     "StatusBar.borderColor": "#353535",
     "TabbedPane": {
