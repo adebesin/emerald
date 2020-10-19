@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.emerald</id>
     <name>Emerald</name>
-    <version>1.10</version>
+    <version>1.12</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/emerald">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,8 +10,9 @@
 
     <change-notes><![CDATA[
       <ul>
-        <li>1.10   Update search colour </li>
-        <li>1.9   Update file colours </li>
+        <li>1.12  todo  </li>
+        <li>1.11  todo  </li>
+        <li>1.10  todo  </li>
         <li>1.8   Update console colours </li>
         <li>1.7   Slight color updates </li>
         <li>1.6   Change caret match colour </li>
@@ -38,6 +39,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
         <themeProvider id="Emerald" path="/Emerald.theme.json"/>
+<!--        <themeProvider id="9934a944-bba0-4653-b67a-fa5fc79d1b90" path="/themes/emerald.theme.json"/>-->
     </extensions>
 
     <actions>
