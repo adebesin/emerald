@@ -1,9 +1,9 @@
 <scheme name="Emerald" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-10-19T21:56:18</property>
+    <property name="created">2020-10-21T22:44:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-10-19T21:56:26</property>
+    <property name="modified">2020-10-21T22:44:25</property>
     <property name="originalScheme">_@user_Emerald</property>
   </metaInfo>
   <colors>
@@ -45,7 +45,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="202020" />
     <option name="INDENT_GUIDE" value="353535" />
-    <option name="INFORMATION_HINT" value="353535" />
+    <option name="INFORMATION_HINT" value="3b3f41" />
     <option name="LINE_NUMBERS_COLOR" value="828282" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="353535" />
@@ -54,8 +54,8 @@
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="NOT_CHANGED" value="4b526d" />
-    <option name="QUESTION_HINT" value="353535" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="353535" />
+    <option name="QUESTION_HINT" value="3b3f41" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="3b3f41" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="c8c8c8" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
@@ -63,32 +63,33 @@
     <option name="SELECTION_FOREGROUND" value="cccccc" />
     <option name="SEPARATOR_BELOW_COLOR" value="353535" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="353535" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="353535" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="616161" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="616161" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="202020" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="353535" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="353535" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="616161" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="616161" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="202020" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="353535" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="353535" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="616161" />
+    <option name="ScrollBar.Mac.hoverThum
+    bColor" value="616161" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="202020" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="353535" />
-    <option name="ScrollBar.Mac.thumbColor" value="353535" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="616161" />
+    <option name="ScrollBar.Mac.thumbColor" value="616161" />
     <option name="ScrollBar.Mac.trackColor" value="202020" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="353535" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="353535" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="616161" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="616161" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="202020" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="353535" />
-    <option name="ScrollBar.Transparent.thumbColor" value="353535" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="616161" />
+    <option name="ScrollBar.Transparent.thumbColor" value="616161" />
     <option name="ScrollBar.Transparent.trackColor" value="202020" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="353535" />
-    <option name="ScrollBar.hoverThumbColor" value="353535" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="616161" />
+    <option name="ScrollBar.hoverThumbColor" value="616161" />
     <option name="ScrollBar.hoverTrackColor" value="202020" />
-    <option name="ScrollBar.thumbBorderColor" value="353535" />
-    <option name="ScrollBar.thumbColor" value="353535" />
+    <option name="ScrollBar.thumbBorderColor" value="616161" />
+    <option name="ScrollBar.thumbColor" value="616161" />
     <option name="ScrollBar.trackColor" value="202020" />
     <option name="TEARLINE_COLOR" value="353535" />
-    <option name="TOOLTIP" value="353535" />
+    <option name="TOOLTIP" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="8e6ef3c0" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="5a4e76" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="49a27e" />
@@ -870,17 +871,23 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -26735,7 +26742,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bacd7b" />
+        <option name="FOREGROUND" value="aaeecc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -26805,6 +26812,7 @@
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="com.plan9.INSTRUCTION" />
     <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.elm.TYPE">
       <value>
