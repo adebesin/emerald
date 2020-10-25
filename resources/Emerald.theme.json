@@ -63,12 +63,14 @@
         "nonEditableBackground": "#202020"
       }
     },
-    "ComboPopup.border": "#353535",
+    "ComboPopup": {
+      "border": "#202020"
+    },
     "CompletionPopup": {
       "nonFocusedMask": "#806919",
       "matchForeground": "#eca311",
-      "selectionBackground": "#353535",
-      "selectionInactiveBackground": "#353535",
+      "selectionBackground": "#616161",
+      "selectionInactiveBackground": "#616161",
       "foreground": "#CCCCCC"
     },
     "Component": {
@@ -80,10 +82,12 @@
       "hoverIconColor": "#CCCCCC"
     },
     "Counter": {
-      "background": "#353535",
+      "background": "#202020",
       "foreground": "#CCCCCC"
     },
-    "DebuggerPopup.borderColor": "#353535",
+    "DebuggerPopup": {
+      "borderColor": "#202020"
+    },
     "DefaultTabs": {
       "underlineColor": "#353535",
       "inactiveUnderlineColor": "#353535",
@@ -119,7 +123,7 @@
       "Yellow": "#eca311",
       "Green": "#49A27E",
       "Blue": "#4F9FDC",
-      "Violet": "#353535",
+      "Violet": "#5B4E77",
       "Orange": "#733000",
       "Rose": "#cc504b"
     },
@@ -145,7 +149,7 @@
       "parentFocusedFrameForeground": "#CCCCCC"
     },
     "InplaceRefactoringPopup": {
-      "borderColor": "#353535"
+      "borderColor": "#202020"
     },
     "Link": {
       "activeForeground": "#CCCCCC",
@@ -204,17 +208,19 @@
         "updateForeground": "#CCCCCC",
         "updateBackground": "#353535"
       },
-      "lightSelectionBackground": "#353535"
+      "lightSelectionBackground": "#616161"
     },
     "Popup": {
       "paintBorder": false,
       "inactiveBorderColor": "#202020",
       "Toolbar.borderColor": "#202020",
       "separatorForeground": "#353535",
-      "Header.activeBackground": "#353535",
-      "Header.inactiveBackground": "#353535",
+      "Header": {
+        "activeBackground": "#3b3f41",
+        "inactiveBackground": "#3b3f41"
+      },
       "Advertiser": {
-        "background": "#353535",
+        "background": "#3b3f41",
         "borderColor": "#202020",
         "borderInsets": "3,8,5,0"
       }
@@ -243,32 +249,25 @@
       "background": "#616161",
       "thumbBorderColor": "#616161",
       "thumbColor": "#616161",
-      "trackColor": "#3b3f41",
+
       "hoverThumbBorderColor": "#616161",
-      "hoverTrackColor": "#202020",
       "Transparent": {
         "thumbColor": "#616161",
         "thumbBorderColor": "#616161",
         "hoverThumbColor": "#616161",
-        "hoverThumbBorderColor": "#616161",
-        "hoverTrackColor": "#616161",
-        "trackColor": "#3b3f41"
+        "hoverThumbBorderColor": "#616161"
       },
       "Mac": {
         "Transparent": {
           "thumbColor": "#616161",
           "thumbBorderColor": "#616161",
           "hoverThumbColor": "#616161",
-          "hoverThumbBorderColor": "#616161",
-          "hoverTrackColor": "#3b3f41",
-          "trackColor": "#3b3f41"
+          "hoverThumbBorderColor": "#616161"
         },
         "thumbColor": "#616161",
         "thumbBorderColor": "#616161",
         "hoverThumbColor": "#616161",
-        "hoverThumbBorderColor": "#616161",
-        "trackColor": "#3b3f41",
-        "hoverTrackColor": "#3b3f41"
+        "hoverThumbBorderColor": "#616161"
       }
     },
     "SearchEverywhere": {
@@ -309,9 +308,9 @@
       "focusCellForeground": "#353535",
       "focusCellBackground": "#202020",
       "lightSelectionForeground": "#CCCCCC",
-      "lightSelectionBackground": "#353535",
+      "lightSelectionBackground": "#616161",
       "lightSelectionInactiveForeground": "#CCCCCC",
-      "lightSelectionInactiveBackground": "#353535"
+      "lightSelectionInactiveBackground": "#616161"
     },
     "ToggleButton": {
       "onForeground": "#CCCCCC",
@@ -364,7 +363,7 @@
     "VersionControl": {
       "Log.Commit": {
         "currentBranchBackground": "#353535",
-        "unmatchedForeground": "#eca311"
+        "unmatchedForeground": "#CCCCCC"
       },
       "RefLabel": {
         "backgroundBase": "#353535",
@@ -373,10 +372,10 @@
       "FileHistory.Commit.selectedBranchBackground": "#353535"
     },
     "WelcomeScreen": {
-      "Projects.selectionInactiveBackground": "#353535",
+      "Projects.selectionInactiveBackground": "#616161",
       "borderColor": "#202020",
       "separatorColor": "#353535",
-      "Projects.selectionBackground": "#353535"
+      "Projects.selectionBackground": "#616161"
     },
     "Window": {
       "border": "#202020"

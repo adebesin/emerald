@@ -69,12 +69,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="616161" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="616161" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="202020" />
+    <option name="ScrollBar.Mac.hoverThum     bColor" value="616161" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="616161" />
-    <option name="ScrollBar.Mac.hoverThum
-    bColor" value="616161" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="202020" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="616161" />
-    <option name="ScrollBar.Mac.thumbColor" value="616161" />
     <option name="ScrollBar.Mac.trackColor" value="202020" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="616161" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="616161" />
@@ -98,6 +96,8 @@
     <option name="VISUAL_INDENT_GUIDE" value="828282" />
     <option name="WHITESPACES" value="3b3f51" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="96befa" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="616161" />
+    <option name="ScrollBar.Mac.thumbColor" value="616161" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
