@@ -67,8 +67,7 @@
       "border": "#202020"
     },
     "CompletionPopup": {
-      "nonFocusedMask": "#806919",
-      "matchForeground": "#eca311",
+      "matchForeground": "#00FFFF",
       "selectionBackground": "#616161",
       "selectionInactiveBackground": "#616161",
       "foreground": "#CCCCCC"
@@ -112,7 +111,7 @@
       "underlineColor": "#353535",
       "inactiveUnderlineColor": "#353535",
       "background": "#202020",
-      "borderColor": "#202020",
+      "borderColor": "#353535",
       "hoverBackground": "#353535",
       "underlinedTabForeground": "#CCCCCC",
       "underlineHeight": 4,
@@ -120,33 +119,12 @@
       "inactiveColoredFileBackground": "#202020"
     },
     "FileColor": {
-      "Yellow": "#eca311",
-      "Green": "#49A27E",
-      "Blue": "#4F9FDC",
-      "Violet": "#5B4E77",
-      "Orange": "#733000",
-      "Rose": "#cc504b"
-    },
-    "FlameGraph": {
-      "JVMBackground": "#202020",
-      "frameForeground": "#CCCCCC",
-      "JVMSearchNotMatchedBackground": "#353535",
-      "nativeBackground": "#353535",
-      "nativeSearchNotMatchedBackground": "#353535",
-      "parentBackground": "#353535",
-      "parentSearchNotMatchedBackground": "#353535",
-      "JVMFocusBackground": "#353535",
-      "JVMFocusSearchNotMatchedBackground": "#353535",
-      "nativeFocusBackground": "#353535",
-      "nativeFocusSearchNotMatchedBackground": "#353535",
-      "parentFocusBackground": "#353535",
-      "parentFocusSearchNotMatchedBackground": "#353535",
-      "JVMFrameForeground": "#CCCCCC",
-      "nativeFrameForeground": "#CCCCCC",
-      "parentFrameForeground": "#CCCCCC",
-      "JVMFocusedFrameForeground": "#CCCCCC",
-      "nativeFocusedFrameForeground": "#CCCCCC",
-      "parentFocusedFrameForeground": "#CCCCCC"
+      "Green": "#3b3f41",
+      "Blue": "#3b3f41",
+      "Violet": "#3b3f41",
+      "Orange": "#3b3f41",
+      "Rose": "#3b3f41",
+      "Yellow": "#3b3f41"
     },
     "InplaceRefactoringPopup": {
       "borderColor": "#202020"
@@ -226,7 +204,7 @@
       }
     },
     "PopupMenu": {
-      "borderWidth": 1,
+      "borderWidth": 0,
       "background": "#202020",
       "foreground": "#CCCCCC",
       "borderInsets": "4,1,4,1"
@@ -249,7 +227,6 @@
       "background": "#616161",
       "thumbBorderColor": "#616161",
       "thumbColor": "#616161",
-
       "hoverThumbBorderColor": "#616161",
       "Transparent": {
         "thumbColor": "#616161",
@@ -282,8 +259,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "#eca311",
-      "endBackground": "#eca311"
+      "startBackground": "#00FFFF",
+      "endBackground": "#00FFFF"
     },
     "SpeedSearch": {
       "foreground": "#CCCCCC",

@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.adebesin.emerald</id>
     <name>Emerald</name>
-    <version>1.11</version>
+    <version>2.0</version>
     <vendor email="gregory.adebesin@gmail.com" url="https://github.com/adebesin/emerald">adebesin</vendor>
 
     <description><![CDATA[
@@ -10,7 +10,7 @@
 
     <change-notes><![CDATA[
       <ul>
-        <li>1.11  todo </li>
+        <li>2.0   Fix yellow popup, new tree view, other tweaks </li>
         <li>1.8   Update console colours </li>
         <li>1.7   Slight color updates </li>
         <li>1.6   Change caret match colour </li>
